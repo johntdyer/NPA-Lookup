@@ -14,7 +14,7 @@ dyer:~/dev/number_lookup git:master
 | Carrier                   | PAC - WEST TELECOMM, INC.                   |
 +---------------------------+---------------------------------------------+
 
-~~~~.shell
+~~~~.html
 dyer:~/dev/number_lookup git:master 
 → ./lookup 4074740200
 +---------------------------+-------------------------------------------------------+
